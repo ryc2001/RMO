@@ -1,4 +1,4 @@
-### RMO: Towards Better LLM Alignment via Reshaping Reward Margin Distributions
+## RMO: Towards Better LLM Alignment via Reshaping Reward Margin Distributions
 
 - Our repo is based on the LLaMA-Factory. Please first download the repository and install the corresponding environment.
 - Next, please move the `data` folder and other files from our code into LLaMA-Factory.
